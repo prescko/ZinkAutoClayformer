@@ -12,7 +12,7 @@
 ## ⚠️ Disclaimer
 
 This is an **unofficial update** of the mod
-**Auto Layer Clay Forming** originally created by **zinkless**.
+**Auto Layer Clay Forming** originally created by **zinkless**. https://mods.vintagestory.at/autolayerclayforming
 
 I do **not** claim ownership of the original mod.
 All credits go to the original author.
