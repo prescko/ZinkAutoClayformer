@@ -112,7 +112,7 @@ This mod **does NOT break balance**:
 ## 🙏 Credits
 
 * 👑 Original mod by **zinkless**
-* 🔧 Update to 1.22 by me
+* 🔧 Update to 1.22 prescko
 
 ---
 
