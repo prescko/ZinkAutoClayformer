@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "modid": "zinkmodautoclay",
+  "name": "ZinkModAutoClay(prescko update 1.22)",
+  "authors": [
+    "Zinkless"
+  ],
+  "description": "Basic Mod to make Duplicate Layer complete the current layer when clay forming",
+  "version": "1.0.4",
+  "side": "Client",
+  "dependencies": {
+    "game": ">=1.22.0"
+  }
+}
